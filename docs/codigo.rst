@@ -9,7 +9,7 @@ Código Fonte
 Divertido
 
 
-.. automodule:: main
+.. automodule:: mainFHJRTRTRTRKK
     :members:
     :undoc-members:
     :show-inheritance:
